@@ -2,7 +2,7 @@
 Geolocation:获取经纬度信息。
 
 
-react native ：Geolocation属性
+react native ：Geolocation方法
 
 
 以Android为例：
